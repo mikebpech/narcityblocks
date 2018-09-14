@@ -1,0 +1,18 @@
+.header {
+  background-color: #FF2734;
+  height: 100%;
+  padding: 20px;
+  margin-bottom: 10px;
+  color: white;
+  text-align: center;
+}
+
+.header__logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.header__title {
+  font-size: 1.5em;
+}
+
