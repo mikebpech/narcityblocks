@@ -14,7 +14,7 @@ class Story extends React.Component {
               <div className="card__overlay card__overlay--indigo">
                 <div className="card__overlay-content">
                   <ul className="card__meta">
-                    <li><a href={this.props.articles.url}><i className="fa fa-tag"></i> Shares: </a></li>
+                    <li><a href={this.props.articles.url}><i className="fa fa-tag"></i>Author </a></li>
                     <li><a href={this.props.articles.url}><i className="fa fa-clock-o"></i> 2 min ago</a></li>
                   </ul>
 
